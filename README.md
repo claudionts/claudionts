@@ -1,5 +1,5 @@
 
-### Hey guys, I'm Claudio Neto! 👋
+## Hey guys, I'm Claudio Neto! 👋
 <p align="left">
   <a href="https://dev.to/claudionts">
     <img align="left" alt="Pawan's Github" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
