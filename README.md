@@ -18,7 +18,7 @@
 
 - 🖥️ I’m currently working on   <img alt="NodeJS" width="90" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 - ❤️ I’m currently learning   <img alt="Elixir" width="70" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
-- 👯 I’m looking to collaborate on open source project what use Elixir Lang
+- 👯 I’m looking to collaborate on open source project what use <img width="70" alt="Elixir" width="70" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
 - 💬 Ask me about <img alt="React" width="70" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 - 🖊️ Writing on my personal project in <img width="70" alt="Elixir" width="70" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
 <br/>
